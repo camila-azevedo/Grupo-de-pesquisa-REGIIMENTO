@@ -1,5 +1,5 @@
 <h3> <center>  Grupo de Pesquisa R.E.G.I.I.M.E.N.T.O. </center> </h3>
-integrantes: Camila e Henrique
+Integrantes: Camila e Henrique <br/>
 <br> 
 
 _Resumo Negocial_ - O grupo de pesquisa R.E.G.I.I.M.E.N.T.O. (Research Expert Group for
@@ -17,7 +17,7 @@ como principal canal de comunicação entre o grupo, a comunidade acadêmica e a
 sociedade, com objetivo de divulgar pesquisas, eventos e dados analíticos, engajar novos
 estudantes, voluntários e pesquisadores e integrar dashboards interativos para monitorar o
 estado da arte da Arquitetura da Informação Multimodal no Brasil, com design responsivo,
-identidade visual vinculada à UnB e certificação pelo CNPq.
+identidade visual vinculada à UnB e certificação pelo CNPq. <br/>
 <br>
 _Resumo Técnico_ - A solução prevê uma plataforma digital estruturada em Arquitetura de
 Conteúdo e Funcionalidades contemplando: apresentação institucional com histórico
@@ -28,7 +28,7 @@ de teses, dissertações e artigos (24 mestres e 24 doutores titulados até 2022
 sobre Processamento de Linguagem Natural, Engenharia de Ontologias, Multimodalidade e
 Deep Learning, agenda de Workshops, Colóquios e Seminários, atualizações sobre Ciência
 Arquivística Computacional (CAS), área do aluno/interessado e divulgação de ferramentas
-como WEKA e Protégé.
+como WEKA e Protégé. <br/>
 <br>
 O sistema deverá integrar Painéis de Dados (Dashboards) para monitorar o estado da arte
 da Arquitetura da Informação Multimodal no Brasil, com visualização de dados coletados e
