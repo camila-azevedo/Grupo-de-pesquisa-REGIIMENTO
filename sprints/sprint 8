@@ -9,6 +9,12 @@ OITAVA SPRINT
 
 → Backlog da sprint
 A. Refinar o protótipo de interface;
-B. Fazer caso de uso;
+B. Escrever casos de uso;
 C. Escrever histórias de usuário + critérios de aceitação;
-D. Editar telas de publicações (publicações teses e dissertações, artigos, texto para discursão,
+D. Editar telas de publicações (publicações teses e dissertações, artigos, texto para discussão);
+
+→ Definição de pronto:
+A. retirada de elementos fictícios e inserção de objetos e imagens reais;
+B. UC com ator, descrição, fluxo principal, fluxo alternativo. um UC para cada RF;
+C. HU com sujeito, objeto e objetivo e no mínimo 3 CA. Uma HU para cada RF;
+D. tela de publicações com as três opções disponíveis.
