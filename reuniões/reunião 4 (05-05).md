@@ -1,5 +1,6 @@
-#Reunião com Fabiano
+# Reunião com Fabiano
 
+** Reunião realizada em 05/05/2026 por meio de Google Meet **
 
 - Usar GitProjects (usar o mecanismo de sprints e não arquivos na pasta \sprints);
 - Não mostrar eventos passados;
