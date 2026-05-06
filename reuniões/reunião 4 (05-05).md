@@ -1,6 +1,7 @@
-Reunião com Fabiano
+#Reunião com Fabiano
 
-- Usar GitProjects;
+
+- Usar GitProjects (usar o mecanismo de sprints e não arquivos na pasta \sprints);
 - Não mostrar eventos passados;
 - Quais eventos vão aparecer na aba de eventos? TODOS. Inserir regras de negócio no documento (detalhamento)
 - Como dar destaque para os eventos mais importantes? Opção fixar evento ou "destaque do mês" - pode ser uma nova aba;
