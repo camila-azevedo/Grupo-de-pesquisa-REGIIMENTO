@@ -6,3 +6,17 @@ Prof.: Walner de Oliveira Pessôa
 Grupo: Camila e Henrique
 
 NONA SPRINT
+
+-> Backlog da Sprint
+a. Casos de Uso (refinar do 1 ao 8)
+b. História de Usuário
+c. Interface da página de eventos
+b. Refinar interface da página inicial
+
+-> Objetivo: Preparar documentação final
+
+-> Definição de pronto
+a. Caso de uso com: atores, pré-condições, descrição, fluxo principal e fluxo alternativo
+b. HU com quem, o que, para, com no mínimo 3 critérios de aceitação
+c. Página de eventos com eventos e destaque e eventos comuns, cada um deve conter nome, data e imagem
+d. Página inicial com apresentação institucional, banner de avisos e calendário
