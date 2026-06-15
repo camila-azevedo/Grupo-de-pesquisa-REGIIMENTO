@@ -11,7 +11,7 @@
         /* Menu de Navegação */
         header { 
             display: flex; justify-content: space-between; align-items: center; 
-            padding: 15px 50px; background: white; border-bottom: 1px solid #eee;
+            padding: 15px 50px; background: rgb(255, 255, 255); border-bottom: 1px solid #eee;
         }
         .logo { color: #004a99; font-weight: bold; font-size: 20px; text-decoration: none; }
         nav a { margin: 0 15px; text-decoration: none; color: #555; font-size: 14px; }
@@ -22,19 +22,25 @@
 
         /* Seção Azul (Hero) */
         .hero {
-            background-color: #0099ff;
-            background-image: radial-gradient(circle at 20% 30%, transparent 20%, rgba(255,255,255,0.2) 21%, transparent 22%); /* Simulação das ondas */
-            background-size: 100px 100px;
-            padding: 100px 50px;
-            display: flex; justify-content: center;
-        }
+        background-color: #0099ff; /* Cor de fundo caso a imagem suma */
+        background-image: url("fundoRegiimento.png") !important; /* O !important força o VS Code a priorizar a imagem */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 100%;
+        min-height: 450px; /* Dá uma altura mínima para a seção aparecer */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 100px 50px;
+    }
 
         /* Card de Manutenção */
         .card {
             background: white; display: flex; border-radius: 15px; 
             overflow: hidden; max-width: 800px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);
         }
-        .card-img { background: #e0edff; width: 40%; display: flex; align-items: center; justify-content: center; padding: 40px; }
+        .card-img { background-image: url("fundoCard.jpg") !important; width: 40%; display: flex; align-items: center; justify-content: center; padding: 40px; }
         .card-content { padding: 40px; width: 60%; }
         .badge { background: #f0f4ff; color: #007bff; padding: 5px 10px; border-radius: 5px; font-size: 10px; font-weight: bold; text-transform: uppercase; }
         .card h2 { margin: 15px 0; font-size: 22px; color: #222; }
@@ -51,12 +57,12 @@
 <body>
 
     <header>
-        <a href="#" class="logo">R.E.G.I.I.M.E.N.T.O.</a>
+        <a href="portalRegiimento.html" class="logo">R.E.G.I.I.M.E.N.T.O.</a>
         <nav>
             <a href="#">Sobre nós</a>
             <a href="integrantes.html">Integrantes</a>
             <a href="eventos.html">Eventos</a>
-            <a href="#">Publicações</a>
+            <a href="publicacoes.html">Publicações</a>
         </nav>
         <a href="#" class="btn-interessado">Área do interessado</a>
     </header>
